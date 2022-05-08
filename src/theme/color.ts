@@ -1,0 +1,18 @@
+export const color = {
+    primary: "#0085FF",
+    green: "#23BF7E",
+    red: "#DA1552",
+    yellow: "#ECB22E",
+    berry: "#5A155B",
+    navy: "#225091",
+    black: "#1C1C1C",
+    dark:"#323338",
+    lightGray:'rgba(197, 199, 208, 1)',
+    uiGrey: "#E6E9EF",
+    riverstone:'#F5F6F8',
+    white: "#FFFFFF",
+    success:"#00CA72",
+    danger:"#E44258",
+    blue:"#3851DD",
+    transparent: "rgba(0, 0, 0, 0)",
+}
